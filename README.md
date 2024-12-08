@@ -23,3 +23,9 @@ This is a simple **Tic-Tac-Toe** game built using **Java Swing** for the graphic
 6. A popup will show the game result with an option to play again.
 
 ---
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/6863528a-1f77-429f-8196-b0e78a2a8006)
+
+![image](https://github.com/user-attachments/assets/6cb6c455-ad1b-422f-be0b-fbf0280df50c)
