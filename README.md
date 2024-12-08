@@ -26,6 +26,11 @@ This is a simple **Tic-Tac-Toe** game built using **Java Swing** for the graphic
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/9a7c737b-5702-4c57-82c9-a2def847eacf)
+
+![image](https://github.com/user-attachments/assets/e86406fb-755a-4d71-99cd-e307a296f2cc)
+
+
 ![image](https://github.com/user-attachments/assets/6863528a-1f77-429f-8196-b0e78a2a8006)
 
 ![image](https://github.com/user-attachments/assets/6cb6c455-ad1b-422f-be0b-fbf0280df50c)
